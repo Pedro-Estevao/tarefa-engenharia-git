@@ -100,7 +100,6 @@ A seguir listo a ordem dos comandos Git utilizados no desenvolvimento deste proj
 
     ```bash
     git checkout desenvolvimento
-    git pull origin desenvolvimento
 
 14. Alterado o arquivo `README.md` na brach `desenvolvimento`. Adicionar ao Git e commitar
 
