@@ -88,6 +88,7 @@ A seguir listo a ordem dos comandos Git utilizados no desenvolvimento deste proj
 
     ```bash
     git checkout main
+    git pull origin main
 
 12. Alterado o arquivo `README.md` na branch `main`. Adicionar ao Git e commitar
 
