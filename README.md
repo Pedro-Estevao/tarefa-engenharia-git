@@ -18,7 +18,7 @@ Para executar o projeto, siga os passos abaixo:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Pedro-Estevao/tarefa-engenharia-git.git
+   git clone https://github.com/pedroestevaodev/tarefa-engenharia-git.git
 
 2. Navegue até o repositório do projeto: 
 
@@ -47,7 +47,7 @@ A seguir listo a ordem dos comandos Git utilizados no desenvolvimento deste proj
 3. Após repositório remoto criado no GitHub. Conexão com o local
 
     ```bash
-    git remote add origin https://github.com/Pedro-Estevao/tarefa-engenharia-git.git
+    git remote add origin https://github.com/pedroestevaodev/tarefa-engenharia-git.git
 
 4. Adição do `README.md` criado ao Git
 
